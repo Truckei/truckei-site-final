@@ -1,0 +1,1 @@
+// Card com imagem, nome, ficha técnica
